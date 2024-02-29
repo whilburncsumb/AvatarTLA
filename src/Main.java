@@ -1,3 +1,6 @@
+import Benders.*;
+import Styles.*;
+
 public class Main {
   public static void main(String[] args) {
     WaterBender katara = new WaterBender("Katara");

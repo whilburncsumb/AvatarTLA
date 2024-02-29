@@ -1,5 +1,8 @@
+package Benders;
+import Styles.*;
+
 // Firebender class
-class FireBender extends Bender {
+public class FireBender extends Bender {
 
   public FireBender(String name) {
     super(name, new FireBendingStyle());

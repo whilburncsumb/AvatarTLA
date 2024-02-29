@@ -1,5 +1,9 @@
+package Benders;
+import Styles.*;
+
+
 // Waterbender class
-class WaterBender extends Bender {
+public class WaterBender extends Bender {
 
   public WaterBender(String name) {
     super(name, new WaterBendingStyle());

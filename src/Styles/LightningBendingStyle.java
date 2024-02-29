@@ -1,5 +1,7 @@
+package Styles;
+
 // Concrete implementation of Lightningbending technique
-class LightningBendingStyle implements BendingStyle {
+public class LightningBendingStyle implements BendingStyle {
 
   @Override
   public void performBending(String benderName) {

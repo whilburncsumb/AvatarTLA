@@ -1,5 +1,7 @@
+package Styles;
+
 // Concrete implementation of Waterbending technique
-class WaterBendingStyle implements BendingStyle {
+public class WaterBendingStyle implements BendingStyle {
 
   @Override
   public void performBending(String benderName) {

@@ -1,5 +1,7 @@
+package Styles;
+
 // Concrete implementation of Firebending technique
-class FireBendingStyle implements BendingStyle {
+public class FireBendingStyle implements BendingStyle {
 
   @Override
   public void performBending(String benderName) {

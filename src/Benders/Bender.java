@@ -1,5 +1,8 @@
+package Benders;
+import Styles.*;
+
 // Bender class (Root class)
-class Bender {
+public class Bender {
 
   private final String name;
   private BendingStyle bendingStyle; // Strategy

@@ -1,5 +1,8 @@
+package Benders;
+import Styles.*;
+
 // Lightningbender class inheriting from Firebender
-class LightningBender extends FireBender {
+public class LightningBender extends FireBender {
 
   public LightningBender(String name) {
     super(name);

@@ -1,5 +1,8 @@
+package Benders;
+import Styles.*;
+
 // Avatar class representing a bender who can bend all four elements
-class Avatar extends Bender {
+public class Avatar extends Bender {
 
   private static Avatar instance; // Singleton instance
 

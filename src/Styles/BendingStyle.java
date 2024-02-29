@@ -1,5 +1,7 @@
+package Styles;
+
 // Interface for bending techniques
-interface BendingStyle {
+public interface BendingStyle {
 
   void performBending(String benderName);
 
