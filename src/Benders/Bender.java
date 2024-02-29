@@ -2,7 +2,7 @@ package Benders;
 import Styles.*;
 
 // Bender class (Root class)
-public class Bender {
+public abstract class Bender {
 
   private final String name;
   private BendingStyle bendingStyle; // Strategy
